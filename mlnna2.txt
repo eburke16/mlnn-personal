@@ -1,5 +1,0 @@
-This is the first line
-My name is elaine burke
-Once upon a time there was a little girl
-she wrote a program to change the text to title case.
-the end
